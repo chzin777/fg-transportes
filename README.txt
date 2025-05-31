@@ -1,45 +1,48 @@
-Spectral by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+# Site da Empresa de Transportes
+
+Este é o código-fonte do site institucional para uma empresa de transportes focada em segurança, agilidade e atendimento personalizado.
+
+---
+
+## Funcionalidades
+
+- Apresentação da empresa e seus diferenciais  
+- Seção de serviços com ícones e descrições  
+- Destaque para rastreamento em tempo real e suporte  
+- Call to Action para solicitação de orçamento e contato  
+- Layout responsivo e moderno  
+
+---
+
+## Tecnologias utilizadas
+
+- HTML5  
+- CSS3 (incluindo classes para estilo e responsividade)  
+- Font Awesome para ícones  
+- (Opcional) JavaScript para interatividade (não incluso nesta versão)
+
+---
+
+## Estrutura do projeto
 
 
-A big, modern, blocky affair with a mobile-style menu, fully responsive styling,
-and an assortment of pre-styled elements. So, pretty much what you were expecting
--- except, of course, for how it's put together, specifically:
+---
 
-- It's built with components from my Responsive Tools project.
+## Como usar
 
-- It uses flexbox, which eliminates all kinds of terrible hacks and clunky layout
-  stopgaps (like CSS grid systems).
+1. Clone ou faça download deste repositório  
+2. Coloque suas imagens na pasta `/images` (substitua as atuais conforme necessário)  
+3. Edite o arquivo `index.html` para personalizar textos, links e conteúdos  
+4. Abra o `index.html` no navegador para visualizar o site  
 
-- It uses Sass* a lot more intelligently, thanks in part to several new mixins
-  and functions I've been working on (as well as a few by @HugoGiraudel).
+---
 
-  (* = still entirely optional if you prefer vanilla CSS :)
+## Contato
 
-- A ton of other stuff.
+Para dúvidas ou sugestões, entre em contato pelo e-mail: seuemail@exemplo.com
 
-In short, Spectral's the culmination of several new things I'm working on/trying out,
-so please, let me know what you think :)
+---
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+## Licença
 
-(* = not included)
-
-AJ
-aj@lkn.io | @ajlkn
-
-
-Credits:
-
-	Demo Images:
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+Este projeto está licenciado sob a licença MIT.  
