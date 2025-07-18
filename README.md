@@ -1,5 +1,9 @@
 # Site da Empresa de Transportes
 
+<div align="center">
+  <img src="https://i.postimg.cc/zBrV1TDS/imagem-2025-07-18-150841699.png" alt="Site Empresa de Transportes" style="width: 70%; max-width: 900px;">
+</div>
+
 Este é o código-fonte do site institucional para uma empresa de transportes focada em segurança, agilidade e atendimento personalizado.
 
 ---
@@ -25,6 +29,10 @@ Este é o código-fonte do site institucional para uma empresa de transportes fo
 
 ## Estrutura do projeto
 
+- `index.html` – Página principal do site  
+- `style.css` – Arquivo de estilos  
+- `/images` – Pasta para armazenar imagens do site  
+- (Adicione outros arquivos conforme necessário)
 
 ---
 
